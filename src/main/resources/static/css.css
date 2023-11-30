@@ -1,0 +1,78 @@
+.agenda{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}
+
+.botao{
+background: gray;
+color: red;
+padding: 40px;
+
+position: absolute;
+list-style-type: none;
+font-size: 40px;
+margin-top: 500px;
+border-radius: 20px;
+text-align: left;
+}
+
+a{
+    list-style-type:none;
+    text-decoration: none;
+}
+
+
+.formulario{
+text-align: center;
+padding: 50px;
+display: inline;
+
+}
+
+.caixatexto{
+    border-color: blue;
+    border: solid red 8px;
+width: 20%;
+height: 65px;
+display:block;
+padding-top: 20px;
+margin: 35px auto;
+border-radius: 17px;
+
+color: black;
+
+
+}
+
+.caixatexto::placeholder{
+
+    font-size: 25px;
+}
+
+.enviar{
+
+
+    width: 100px;
+    height: 40px;
+    display:block;
+    margin: 35px auto;
+    border-radius: 17px;
+    border: solid violet 3px ;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+
+.principal{
+    color: aqua;
+    font-size: 30px;
+    text-align: center;
+}
+
+.lbl{
+color: white;
+font-size: 20px;
+display: block;
+}
